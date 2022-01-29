@@ -1,0 +1,9 @@
+.layout-product {
+    display: grid ;
+    grid-template-columns: repeat(1fr, 4) ;
+}
+
+.product-card {
+    width: 400px ;
+    height: 250px ;
+}
